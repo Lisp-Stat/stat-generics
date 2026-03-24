@@ -1,3 +1,14 @@
+# Ignore Mac system files
+.DS_Store
+
+# Emacs backup and crash recovery files
+*~
+*.~[0-9]*~
+\#*\#
+
+.github
+
+# CL compiler artefacts
 *.FASL
 *.fasl
 *.lisp-temp

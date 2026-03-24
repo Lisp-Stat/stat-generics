@@ -1,0 +1,3 @@
+Generic function definitions for Common Lisp systems.
+
+This allows independent systems to define individual implementation methods for different objects.  For example `mean` can be applied to a distribution or a sample.
